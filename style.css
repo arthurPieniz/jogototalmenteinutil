@@ -1,0 +1,37 @@
+*{
+    box-sizing: border-box;
+    padding: 0px;
+    margin: 0px;
+}
+
+.butao{
+    background-color: midnightblue;
+    border-width: 2px;
+    border-radius: 5px;
+    display: flex;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.butao input{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
+
+.butao2{
+    background-color: midnightblue;
+    border-width: 2px;
+    border-radius: 5px;
+    display: flex;
+    position: absolute;
+    left: 20px;
+    bottom: 20px;
+}
+
+.butao2 input{
+    height: 50px;
+    width: 50px;
+    margin: 10px;
+}
